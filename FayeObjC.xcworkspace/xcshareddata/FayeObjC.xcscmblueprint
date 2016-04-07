@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3B5ACA45CC7D77DF3EAF73C9A704AE83105ACBC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3B5ACA45CC7D77DF3EAF73C9A704AE83105ACBC2" : 0,
+    "ABB939127996C66F7E852A780552ADEEF03C6B13" : 0,
+    "964D25581C24F7C8578BD65CBF82F08200520F63" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "833150C8-4CF2-466A-A298-44E89DF891A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3B5ACA45CC7D77DF3EAF73C9A704AE83105ACBC2" : "FayeObjC\/",
+    "ABB939127996C66F7E852A780552ADEEF03C6B13" : "FayeObjC\/lib\/SocketRocket\/",
+    "964D25581C24F7C8578BD65CBF82F08200520F63" : "FayeObjC\/lib\/SocketRocket\/pages\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FayeObjC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FayeObjC.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:troupe\/FayeObjC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B5ACA45CC7D77DF3EAF73C9A704AE83105ACBC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/square\/SocketRocket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "964D25581C24F7C8578BD65CBF82F08200520F63"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Troupe\/SocketRocket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ABB939127996C66F7E852A780552ADEEF03C6B13"
+    }
+  ]
+}
