@@ -1,4 +1,5 @@
 # 2.0
+[![Gitter](http://localhost:4000/Join Chat.svg)](http://localhost:5000/troupe/FayeObjC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 I've begun work on an update to FayeObjC. I am also porting the source over to be ARC compatible, once this work is done I'll keep the current master around as a non-ARC branch for those that wish to use it.
 
